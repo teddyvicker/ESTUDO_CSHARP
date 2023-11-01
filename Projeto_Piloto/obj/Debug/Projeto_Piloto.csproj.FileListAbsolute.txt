@@ -1,0 +1,7 @@
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\bin\Debug\Projeto_Piloto.exe.config
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\bin\Debug\Projeto_Piloto.exe
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\bin\Debug\Projeto_Piloto.pdb
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\obj\Debug\Projeto_Piloto.csproj.AssemblyReference.cache
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\obj\Debug\Projeto_Piloto.csproj.CoreCompileInputs.cache
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\obj\Debug\Projeto_Piloto.exe
+C:\Users\vicpo\OneDrive\Área de Trabalho\ESTUDO_CSHARP\ESTUDO_CSHARP\Projeto_Piloto\obj\Debug\Projeto_Piloto.pdb
